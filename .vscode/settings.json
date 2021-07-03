@@ -1,0 +1,36 @@
+{
+  "editor.formatOnSave": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "mochaExplorer.files": "test/**/*.{j,t}s",
+  "mochaExplorer.fullTrace": true,
+  "mochaExplorer.exit": true,
+  "solidity.linter": "solhint",
+  "solidity.enableLocalNodeCompiler": false,
+  "solidity.compileUsingRemoteVersion": "v0.6.12+commit.27d51765",
+  "solidity.packageDefaultDependenciesContractsDirectory": "",
+  "solidity.enabledAsYouTypeCompilationErrorCheck": true,
+  "solidity.validationDelay": 1500,
+  "solidity.packageDefaultDependenciesDirectory": "node_modules",
+  "solidity-va.deco.statevars": true,
+  "solidity-va.preview.markdown": true,
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#ab307e",
+    "activityBar.activeBorder": "#25320e",
+    "activityBar.background": "#ab307e",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#25320e",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#832561",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#ab307e",
+    "titleBar.activeBackground": "#832561",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#83256199",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#832561",
+}
